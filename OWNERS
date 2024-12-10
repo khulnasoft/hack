@@ -1,0 +1,8 @@
+approvers:
+  - technical-oversight-committee
+  - productivity-writers
+  - khulnasoft-release-leads
+
+reviewers:
+  - productivity-writers
+  - productivity-reviewers
